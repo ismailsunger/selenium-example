@@ -13,7 +13,7 @@ public class RegisterTest extends BaseTest {
 
     RegisterPage registerPage;
 
-        @Description("Register test for forceget than login with registered user.")
+        @Description("Register test for forceget than login with registered user..")
         @Test
         public void registerThanLoginTest() {
             registerPage = new RegisterPage(driver);
