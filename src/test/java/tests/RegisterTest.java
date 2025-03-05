@@ -1,5 +1,4 @@
 package tests;
-import static constants.TestUtils.*;
 
 import constants.TestUtils;
 import jdk.jfr.Description;
